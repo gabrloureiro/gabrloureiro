@@ -25,8 +25,7 @@ I use coding agents (mainly Claude Code currently) for much of my recent work, a
 
 ### Earlier work
 
-**[COVID data project](https://github.com/gabrloureiro/QCcovidDB)** · *Python (2020)*
-My first project, written before university. The government of Quebec did not publish its COVID-19 data in a usable format, nor did they provide any visualisations to better understand trends. Seeing this gap and feeling a need to better understand the severity of the situation, I built this project to extract the case and death data from their website and to plot it in order to follow trends.
+**[COVID data project](https://github.com/gabrloureiro/QCcovidDB)**: My first project, written before university. The government of Quebec did not publish its COVID-19 data in a usable format, nor did they provide any visualisations to better understand trends. Seeing this gap and feeling a need to better understand the severity of the situation, I built this project to extract the case and death data from their website and to plot it in order to follow trends · *Python* · 2020
 
 </details>
 

@@ -31,4 +31,4 @@ I use coding agents (mainly Claude Code currently) for much of my recent work, a
 
 ### Get in touch
 
-[Email](loureirogabr@gmail.com) · [LinkedIn](https://www.linkedin.com/in/gab-loureiro-7a6115204?utm_source=share_via&utm_content=profile)
+[Email](mailto:loureirogabr@gmail.com) · [LinkedIn](https://www.linkedin.com/in/gab-loureiro-7a6115204?utm_source=share_via&utm_content=profile)
